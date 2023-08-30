@@ -1,6 +1,9 @@
 ## Medium Logic Exercises
 
+### CNF I
 
+Take a sheet of paper and find out the CNF of the sentence:
+\neg (A \vee B) \Leftrightarrow C
 
 
 
