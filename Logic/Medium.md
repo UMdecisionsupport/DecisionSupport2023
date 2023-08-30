@@ -2,7 +2,17 @@
 
 ### CNF I
 
-Take a sheet of paper and find out the CNF of the sentence: ¬(A ∨ B) ⇔ C
+What is the first step in converting (p ∨ q) ∧ (p ∧ r) to its CNF?
+
+### CNF II
+
+Take a sheet of paper and find out the CNFs of the sentences: 
+
+- ¬(A ∨ B) ⇔ C
+- (p ⇒ q) ⇒ r 
+- p ⇔ q 
+
+
 
 
 
