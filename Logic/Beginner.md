@@ -15,6 +15,6 @@ Are these logical statements equivalent?
 - ...
 
 
-To view solutions, click here: [Solutions for Beginner Logic](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/Logic/Solutions/Beginner_Solutions.md)
+[View Solutions for Beginner Logic](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/Logic/Solutions/Beginner_Solutions.md)
 
-To move forward to medium exercises, click here: [Medium Logic Exercises](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/Logic/Medium.md)
+[Move forward to Medium Logic Exercises](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/Logic/Medium.md)
