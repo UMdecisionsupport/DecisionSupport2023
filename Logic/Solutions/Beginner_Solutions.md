@@ -1,4 +1,4 @@
-## Solutions
+## Solutions to the Beginner Exercises
 
 ### The Logician
 
