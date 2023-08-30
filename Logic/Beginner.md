@@ -25,6 +25,10 @@ Are these logical statements equivalent?
 - ¬(a ∨ b) AND ¬a ∨ ¬b
 - a ∨ b AND b ∨ a
 
+### Truth Tables I
+
+Use the truth tables method to determine whether p ∧ ¬q → p ∧ q is *entailed* by ¬p.
+
 
 [View Solutions for Beginner Logic](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/Logic/Solutions/Beginner_Solutions.md)
 
