@@ -27,4 +27,8 @@ Each variable can be either true or false. Since there are 5 variables, there ar
 - no
 - yes
 
+### Truth Tables I
+
+When ¬p is True, so is p ∧ ¬q → p ∧ q. Hence, it is entailed.
+
 [Move forward to Medium Logic Exercises](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/Logic/Medium.md)
