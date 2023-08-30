@@ -6,15 +6,15 @@ Both  E and 7 need to be turned over. They are the only two cards that could pro
 
 ### Logic Notation
 
-- disjunction: ∨
-- conjunction: ∧
-- literal: B
-- entails: ⊨
-- negation: ¬
-- clauses: (A∧B) ∨ (B∧¬C)
-- implication: ⇒
-- equivalence: ⇔, ≡
-- derives: ⊢
+- disjunction: $∨$
+- conjunction: $∧$
+- literal: $B$
+- entails: $⊨$
+- negation: $¬$
+- clauses: $(A∧B) ∨ (B∧¬C)$
+- implication: $⇒$
+- equivalence: $⇔, ≡$
+- derives: $⊢$
 
 ### Short Questions I
 
@@ -29,7 +29,7 @@ Each variable can be either true or false. Since there are 5 variables, there ar
 
 ### Truth Tables I
 
-When ¬p is True, so is p ∧ ¬q → p ∧ q. Hence, it is entailed.
+When $¬p$ is True, so is $p ∧ ¬q → p ∧ q$. Hence, it is entailed.
 
 ### Truth Tables II
 
