@@ -23,4 +23,8 @@ Have the following statements, now listed in the opposite direction:
 
 From statement 1, we have that ¬I. Combined with 2, this entails M, since ¬M would entail I. Now also bringing in 5, M entails N. Now bringing in 4, N entails K. Combining instead 1 and 3, there must be ¬K. Cannot have both K and ¬K, so the statements are **not consistent**. 
 
+### Validity
+In short, the statement is **valid**.
+
+
 [Move back to Medium Logic Exercises](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/Logic/Medium.md)
