@@ -8,4 +8,4 @@
 
 [Move back to Beginner Logic Exercises](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/Logic/Beginner.md)
 
-[Movew forward to Advanced Logic Exercises](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/Logic/Advanced.md)
+[Move forward to Advanced Logic Exercises](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/Logic/Advanced.md)
