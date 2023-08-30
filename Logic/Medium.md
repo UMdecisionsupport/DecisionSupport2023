@@ -3,6 +3,10 @@
 ### CNF I
 
 What is the first step in converting (p ∨ q) ∧ (p ∧ r) to its CNF?
+- biconditional elimination
+- no changes needed
+- implication elimination
+- Use distributivity of ∨ over ∧
 
 ### CNF II
 
