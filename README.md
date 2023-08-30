@@ -7,6 +7,8 @@ If you don't want to use the recommender but want to get started, please start h
 - [Start Exercising Logic](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/Logic/Beginner.md)
 - [Start Exercising Probability](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/Probability/Beginner.md)
 - [Start Exercising Graphical Models](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/GraphicalModels/Beginner.md)
+- [Start Exercising Decision Theory](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/DecisionTheory/Beginner.md)
+- [Start Exercising Game Theory](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/GameTheory/Beginner.md)
 
 If you have questions about any of these exercises, you can either post about it in the forum or write me an email. We can also discuss these exercises in class. If you want any of these exercises to be discussed in class, let me know beforehand. Don't hesitate to ask questions even if we have already moved on from the topic.
 
