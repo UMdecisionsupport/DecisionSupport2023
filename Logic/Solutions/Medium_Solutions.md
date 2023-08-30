@@ -1,7 +1,10 @@
 ## Solutions to the Medium Exercises
 
 ### CNF I
-(A∨B∨C)∧(¬A∨¬C)∧(¬B∨¬C)
+(p ∨ q) ∧ (p ∧ r) is already in CNF. This can be more easily seen when the second pair of brackets are dropped and it is written as (p ∨ q) ∧ p ∧ r.
+
+### CNF II
+- (A∨B∨C)∧(¬A∨¬C)∧(¬B∨¬C)
 
 [Move back to Beginner Logic Exercises](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/Logic/Beginner.md)
 
