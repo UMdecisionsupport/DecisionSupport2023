@@ -8,9 +8,9 @@ Imagine that a logician puts four cards on the table in front of you. Each card 
 ### Logic Notation
 Assign the following terms to the correct symbol.
 
-**Terms:** *disjunction, conjunction, implication, entails, derives, clauses, equivalence, literal, negation*
+**Terms:** *conjunction, implication, disjunction, entails, derives, clauses, equivalence, literal, negation*
 
-**Symbols:** ∨, ∧, B, ⊨, ¬, (A∧B) ∨ (B∧¬C), ⇒, ⇔ or ≡, ⊢
+**Symbols:** ∨, ∧, B, ⊨, ¬, ((A∧B) ∨ (B∧¬C)), ⇒, ⇔ or ≡, ⊢
 
 
 ### Short Questions I
