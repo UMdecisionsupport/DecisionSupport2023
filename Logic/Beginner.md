@@ -21,7 +21,9 @@ Determine the number of rows in the full truth table of a proposition containing
 
 Are these logical statements equivalent?
 - b ⇒ ¬a AND ¬a ∨ ¬b
-- ...
+- (a ∨ b) ∧ ¬c AND (a ∧ ¬c) ∨ (b ∧ ¬c)
+- ¬(a ∨ b) AND ¬a ∨ ¬b
+- a ∨ b AND b ∨ a
 
 
 [View Solutions for Beginner Logic](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/Logic/Solutions/Beginner_Solutions.md)
