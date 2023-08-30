@@ -1,4 +1,4 @@
-## Easy Exercises
+## Eas Exercises
 
 ### The Logician
 
