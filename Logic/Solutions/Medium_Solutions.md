@@ -8,6 +8,9 @@
 - (p ∨ r) ∧ (¬q ∨ r)
 - (¬p ∨ q) ∧ (¬q ∨ p)
 
+### DPLL Notation
+(A∨C)∧(¬A∨¬B∨C)∧(A∨¬C)
+
 [Move back to Beginner Logic Exercises](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/Logic/Beginner.md)
 
 [Move forward to Advanced Logic Exercises](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/Logic/Advanced.md)
