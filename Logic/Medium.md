@@ -16,7 +16,10 @@ Take a sheet of paper and find out the CNFs of the sentences:
 - (p ⇒ q) ⇒ r 
 - p ⇔ q 
 
+### DPLL Notation 
 
+What is the correct representation of the CNF:
+\{A,C\},\{¬ A,¬ B,C\},\{A, ¬ C\}
 
 
 
