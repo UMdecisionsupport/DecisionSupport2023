@@ -2,9 +2,8 @@
 
 ### CNF I
 
-Take a sheet of paper and find out the CNF of the sentence:
-¬(A ∨ B) ⇔ C
-∨, ∧, B, ⊨, ¬, ((A∧B) ∨ (B∧¬C)), ⇒, ⇔ or ≡, ⊢
+Take a sheet of paper and find out the CNF of the sentence: ¬(A ∨ B) ⇔ C
+
 
 
 [View Solutions for Medium Logic](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/Logic/Solutions/Medium_Solutions.md)
