@@ -10,4 +10,4 @@ Each variable can be either true or false. Since there are 5 variables, there ar
 ### Short Questions II
 yes
 
-To move to medium exercises, click here: [Medium Logic Exercises](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/Logic/Medium.md)
+[Move forward to Medium Logic Exercises](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/Logic/Medium.md)
