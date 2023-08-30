@@ -1,4 +1,4 @@
-## Beginner Exercises
+## Beginner Logic Exercises
 
 ### The Logician
 
