@@ -1,7 +1,7 @@
 ## Advanced Logic Exercises
 
 ### DPLL
-Given the CNF:\{A , B , \neg C \}, \{\neg A , \neg B \}, \{C \}, \{A , \neg B \}
+Given the CNF:\{A , B , ¬C \}, \{¬A , ¬B \}, \{C \}, \{A , ¬B \}
 Apply the DPLL algorithm to find out for which assignment of truth values the formula is satisfiable.
 
 
