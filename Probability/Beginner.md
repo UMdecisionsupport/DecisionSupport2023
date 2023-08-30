@@ -1,4 +1,4 @@
-## Beginner Exercises
+## Beginner Probability Exercises
 
 
 [View Solutions for Beginner Probability](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/Probability/Solutions/Beginner_Solutions.md)
