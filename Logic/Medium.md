@@ -3,8 +3,8 @@
 ### CNF I
 
 Take a sheet of paper and find out the CNF of the sentence:
-\neg (A \vee B) \Leftrightarrow C
-
+¬(A ∨ B) ⇔ C
+∨, ∧, B, ⊨, ¬, ((A∧B) ∨ (B∧¬C)), ⇒, ⇔ or ≡, ⊢
 
 
 [View Solutions for Medium Logic](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/Logic/Solutions/Medium_Solutions.md)
