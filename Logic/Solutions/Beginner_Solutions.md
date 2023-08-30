@@ -31,4 +31,15 @@ Each variable can be either true or false. Since there are 5 variables, there ar
 
 When ¬p is True, so is p ∧ ¬q → p ∧ q. Hence, it is entailed.
 
+### Truth Tables II
+- F=T, G=T: F
+- F=T, G=F: T
+- F=F, G=T: T
+- F=F, G=F: F
+
+| F    | G    | p ∧ ¬q → p ∧ q |
+| :--- |:----:|           ---: |
+| T    | T    |        F       |
+| T    | F    |        T       |
+
 [Move forward to Medium Logic Exercises](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/Logic/Medium.md)
