@@ -28,3 +28,5 @@ What is the correct representation of the CNF:
 [Move back to Beginner Logic Exercises](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/Logic/Beginner.md)
 
 [Move forward to Advanced Logic Exercises](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/Logic/Advanced.md)
+
+*If the page doesn't render correctly, reload it. That should fix it.*
