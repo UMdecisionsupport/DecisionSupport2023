@@ -41,3 +41,5 @@ When $¬p$ is True, so is $p ∧ ¬q → p ∧ q$. Hence, it is entailed.
 | F    | F    |        F       |
 
 [Move forward to Medium Logic Exercises](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/Logic/Medium.md)
+
+*If the page doesn't render correctly, reload it. That should fix it.*
