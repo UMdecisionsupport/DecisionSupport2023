@@ -36,3 +36,5 @@ Compute the truth table of (F ∨ G) ∧ ¬(F ∧ G).
 [View Solutions for Beginner Logic](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/Logic/Solutions/Beginner_Solutions.md)
 
 [Move forward to Medium Logic Exercises](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/Logic/Medium.md)
+
+*If the page doesn't render correctly, reload it. That should fix it.*
