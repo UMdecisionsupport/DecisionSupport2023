@@ -16,8 +16,7 @@ Formalise these statements and determine (with truth tables or otherwise) whethe
 
 ### Validity
 Take a sheet of paper and show whether the following sentence is valid (a tautology), satisfiable, or neither.
-
-$$ ((A \Rightarrow B) \wedge (B \Rightarrow C)) \Rightarrow (A \Rightarrow C) $$
+((A ⇒ B) ∧ (B ⇒ C)) ⇒ (A ⇒ C)
 
 [View Solutions for Advanced Logic](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/Logic/Solutions/Advanced_Solutions.md)
 
