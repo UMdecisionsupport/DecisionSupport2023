@@ -2,19 +2,19 @@
 
 ### CNF I
 
-What is the first step in converting (p ∨ q) ∧ (p ∧ r) to its CNF?
+What is the first step in converting $(p ∨ q) ∧ (p ∧ r)$ to its CNF?
 - biconditional elimination
 - no changes needed
 - implication elimination
-- Use distributivity of ∨ over ∧
+- Use distributivity of $∨$ over $∧$
 
 ### CNF II
 
 Take a sheet of paper and find out the CNFs of the sentences: 
 
-- ¬(A ∨ B) ⇔ C
-- (p ⇒ q) ⇒ r 
-- p ⇔ q 
+- $¬(A ∨ B) ⇔ C$
+- $(p ⇒ q) ⇒ r$ 
+- $p ⇔ q$ 
 
 ### DPLL Notation 
 
