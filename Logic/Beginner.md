@@ -29,7 +29,7 @@ Are these logical statements equivalent?
 
 Use the truth tables method to determine whether p ∧ ¬q → p ∧ q is *entailed* by ¬p.
 
-### Trauth Tables II
+### Truth Tables II
 
 Compute the truth table of (F ∨ G) ∧ ¬(F ∧ G).
 
