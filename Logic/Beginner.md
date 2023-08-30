@@ -10,7 +10,7 @@ Assign the following terms to the correct symbol.
 
 **Terms:** *conjunction, implication, disjunction, entails, derives, clauses, equivalence, literal, negation*
 
-**Symbols:** ∨, ∧, B, ⊨, ¬, ((A∧B) ∨ (B∧¬C)), ⇒, ⇔ or ≡, ⊢
+**Symbols:** $∨, ∧, B, ⊨, ¬, ((A∧B) ∨ (B∧¬C)), ⇒, ⇔ or ≡, ⊢$
 
 
 ### Short Questions I
@@ -20,14 +20,14 @@ Determine the number of rows in the full truth table of a proposition containing
 ### Short Questions II
 
 Are these logical statements equivalent?
-- b ⇒ ¬a AND ¬a ∨ ¬b
-- (a ∨ b) ∧ ¬c AND (a ∧ ¬c) ∨ (b ∧ ¬c)
-- ¬(a ∨ b) AND ¬a ∨ ¬b
-- a ∨ b AND b ∨ a
+- $b ⇒ ¬a$ AND $¬a ∨ ¬b$
+- $(a ∨ b) ∧ ¬c$ AND $(a ∧ ¬c) ∨ (b ∧ ¬c)$
+- $¬(a ∨ b)$ AND $¬a ∨ ¬b$
+- $a ∨ b$ AND $b ∨ a$
 
 ### Truth Tables I
 
-Use the truth tables method to determine whether p ∧ ¬q → p ∧ q is *entailed* by ¬p.
+Use the truth tables method to determine whether $p ∧ ¬q → p ∧ q$ is *entailed* by $¬p$.
 
 ### Truth Tables II
 
