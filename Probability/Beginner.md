@@ -45,6 +45,10 @@ Which of the following pairs of events are independent, when considering drawing
 A spinner has four sections numbered 1, 2, 3, and 4.
 The probabilities of the spinner landing on a number are listed below:
 
+| Number on Spinner| 1  | 2  | 3  | 4  |
+| :---             |:--:|:--:|:--:|:--:|
+| Probability      |0.5 |0.2 |0.12| ?  |
+
 - What is the probability of the spinner landing on a 4? 
 - If the spinner was spun 50 times, how many times would you expect it to show the number 2? 
 - Let there be two of these same spinners, and the numbers they give are summed. What is the probability of the sum being 2? 
