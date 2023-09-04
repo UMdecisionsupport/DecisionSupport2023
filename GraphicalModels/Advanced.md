@@ -48,7 +48,7 @@ Estimate the probability $P(+a|+d)$ if these new samples were collected using:
 - likelihood weighting
 
 ### Sampling II
-<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/sampling2.png" width="550" height="450">
+<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/sampling2.png" width="550" height="500">
 
 Consider the above Bayes Net, where we have observed that $D = +d$.
 
