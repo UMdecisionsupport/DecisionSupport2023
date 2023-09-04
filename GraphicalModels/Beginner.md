@@ -8,7 +8,6 @@ Express the answer as a product of terms representing individual conditional pro
 
 
 ### Joint Distribution Match
-Match the joint distributions to the networks.
 A
 <img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/jdm1.png" width="150" height="150">
 B
@@ -17,7 +16,8 @@ C
 <img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/jdm3.png" width="150" height="150">
 D
 <img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/jdm4.png" width="150" height="150">
-
+Match the joint distributions to the networks.
+- sd
 
 
 [View Solutions for Beginner Graphical Models](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/GraphicalModels/Solutions/Beginner_Solutions.md)
