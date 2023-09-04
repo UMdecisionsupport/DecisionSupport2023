@@ -9,7 +9,7 @@
 
 ### College Indecision
 
-$\frac{1}{n}\cdot U(\$10)+(1-\frac{1}{n})\cdot U(\$1)$=$\frac{1}{n}\cdot100+(1- \frac{1}{n})\cdot1 =\frac{1}{n}\cdot99 + 1$
+$$\frac{1}{n}\cdot U(\$10)+(1-\frac{1}{n})\cdot U(\$1)=\frac{1}{n}\cdot100+(1- \frac{1}{n})\cdot1 =\frac{1}{n}\cdot99 + 1$$
 
 
 [Move back to Medium Decision Theory Exercises](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/DecisionTheory/Medium.md)
