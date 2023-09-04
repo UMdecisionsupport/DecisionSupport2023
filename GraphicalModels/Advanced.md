@@ -26,7 +26,7 @@ Chris uses Gibbs sampling to sample tuples of $(O, W, S, H, E)$.
 - What will be the most observed tuple of $(O, W, S, H, E)$ if we keep running Gibbs sampling for a long time?
 
 ### Sampling I
-<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/sampling.png" width="750" height="350">
+<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/sampling.png" width="750" height="200">
 
 [View Solutions for Advanced Graphical Models](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/GraphicalModels/Solutions/Advanced_Solutions.md)
 
