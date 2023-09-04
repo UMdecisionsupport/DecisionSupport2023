@@ -43,9 +43,11 @@ You might be able to gather some more information about the state of your leg by
 
 #### Part A
 Based on this information, should you ski in the race tomorrow?
-Compute the expected value of perfect information about the state of your leg. 
 
 #### Part B
+Compute the expected value of perfect information about the state of your leg. 
+
+#### Part C
 Compute the expected value of perfect information about whether you’ll win the race. 
 
 
