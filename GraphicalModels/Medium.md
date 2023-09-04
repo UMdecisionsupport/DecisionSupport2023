@@ -16,7 +16,7 @@ Given the same Bayesian Network, is $A$ conditionally independent of these nodes
 - $E$
 
 ### Diagnostic Farmer
-<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/farmer.png" width="450" height="250">
+<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/farmer.png" width="750" height="350">
 
 
 
