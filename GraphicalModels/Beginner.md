@@ -1,7 +1,9 @@
 ## Beginner Graphical Models Exercises
 
-![Model](images/BN1.png)
+
 ![Model](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/BN1.png)
+
+<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/BN1.png" width="100" height="100">
 
 [View Solutions for Beginner Graphical Models](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/GraphicalModels/Solutions/Beginner_Solutions.md)
 
