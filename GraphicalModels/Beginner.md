@@ -1,9 +1,16 @@
 ## Beginner Graphical Models Exercises
 
-
-![Model](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/BN1.png)
-
+### Bayesian Networks
+Consider the following Bayesian Network:
 <img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/BN1.png" width="200" height="300">
+What is the joint probability distribution associated with the Bayesian Network? 
+
+Express the answer as a product of terms representing individual conditional probabilities tables associated with this Bayesian Network. Make it as concsie as possible.
+
+
+
+
+
 
 [View Solutions for Beginner Graphical Models](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/GraphicalModels/Solutions/Beginner_Solutions.md)
 
