@@ -1,7 +1,16 @@
 ## Beginner Decision Theory Exercises
 
-### Bike Ride
 <img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/jdm1.png" width="150" height="150">
+
+### Existence of Utility Theorem
+Complete the following statements.
+Existence of Utility Theorem: There exists a function U such that when $A\prec B$, $U(   )>U(   )$. And when $A\sim B$, $U(A)   U(B)$.
+
+
+
+### Bike Ride
+You are preparing to go for a bike ride and are trying to decide whether to use your thin road tyres or your thicker, knobbier tyres. You know from previous experience that your road tyres are more likely to go flat during a ride. There’s a 40% chance your road tyres will go flat but only a 10% chance that the thicker tyres will go flat. Because of the risk of a flat, you also have to decide whether or not to bring your tools along on the ride (a pump, tyre levers and a puncture kit). These tools will weigh you down.
+The advantage of the thin road tyres is that you can ride much faster. The table below gives the utilities for these variables:
 
 Bring tools| Flat tyre |	Road tyres |	Satisfaction|
 -----------|-----------|-------------|--------------|
@@ -14,7 +23,8 @@ F	         |T	         |F	           |0             |
 F	         |F          |T	           |100           |
 F	         |F	         |F	           |75            |
 
-
+- What is the optimal policy?
+- What is the expected utility?
 
 [View Solutions for Beginner Decision Theory](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/DecisionTheory/Solutions/Beginner_Solutions.md)
 
