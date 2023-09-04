@@ -4,7 +4,7 @@
 
 ### Existence of Utility Theorem
 Complete the following statements.
-Existence of Utility Theorem: There exists a function U such that when $A\prec B$, $U(   )>U(   )$. And when $A\sim B$, $U(A)   U(B)$.
+Existence of Utility Theorem: There exists a function U such that when $A\prec B$, $U(\[insert symbol\])>U(\[insert symbol\])$. And when $A\sim B$, $U(A) \text{\[insert symbol\]}  U(B)$.
 
 
 
