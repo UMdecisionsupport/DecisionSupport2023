@@ -1,8 +1,8 @@
 ## Solutions to the Advanced Exercises
 
 ### Probability Game
-In a game, it is only possible to score 10, 20 or 30 points. The probability of scoring 20 points is twice the probability of scoring 30 points. The probability of scoring 20 points is half the probability of scoring 10 points.
-What is the expected points scored from one round of the game?
+The probability of 10, 20 and 30 points is $\frac{4}{7}  , \frac{2}{7}  and \frac{1}{7}$  respectively.
+$E(Points)=\frac{4}{7}\cdot10+\frac{2}{7}\cdot20+\frac{1}{7}\cdot30=15.7$
 
 ### Tennis Match
 $P(1st|2nd)=\frac{P(1st\wedge 2nd)}{P(2nd)}=\frac{3/5\cdot 9/10}{3/5\cdot 9/10+2/5\cdot 1/2}=\frac{27}{37} $
