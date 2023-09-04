@@ -12,22 +12,13 @@ Existence of Utility Theorem: There exists a function U such that when $A\prec B
 - To calculate the Value of Perfect Information, it is necessary to know the previous expected utility. **True**
 
 ### Bike Ride
-You are preparing to go for a bike ride and are trying to decide whether to use your thin road tyres or your thicker, knobbier tyres. You know from previous experience that your road tyres are more likely to go flat during a ride. There’s a 40% chance your road tyres will go flat but only a 10% chance that the thicker tyres will go flat. Because of the risk of a flat, you also have to decide whether or not to bring your tools along on the ride (a pump, tyre levers and a puncture kit). These tools will weigh you down.
-The advantage of the thin road tyres is that you can ride much faster. The table below gives the utilities for these variables:
+There are four possible policies; a choice must be made between the two types of tyre and whether or not to take tools.
 
-Bring tools| Flat tyre |	Road tyres |	Satisfaction|
------------|-----------|-------------|--------------|
-T	         |T	         |T	           |50            |
-T	         |T	         |F	           |40            |
-T	         |F	         |T	           |75            |
-T	         |F	         |F	           |65            |
-F	         |T	         |T	           |0             |
-F	         |T	         |F	           |0             |
-F	         |F          |T	           |100           |
-F	         |F	         |F	           |75            |
-
-- What is the optimal policy?
-- What is the expected utility?
+- Road tyres and tools: EU = 0.4 · 50 + 0.6 · 75 = 65
+- Road tyres and no tools: EU = 0.4 · 0 + 0.6 · 100 = 60
+- Other tyres and tools: EU = 0.1 · 40 + 0.9 · 65 = 62.5
+- Other tyres and no tools: EU = 0.1 · 0 + 0.9 · 75 = 67.5
+So the optimal choice is the other tyres and no tools with an EU of 67.5.
 
 ### Pacman
 $EU(accept)=P(+h)U(+h,accept)+P(-h)U(-h,accept)=0.5\cdot100+0.5\cdot-100=0 $
