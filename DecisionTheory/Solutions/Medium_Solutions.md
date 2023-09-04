@@ -1,5 +1,8 @@
 ## Solutions to the Medium Exercises
 
+### Pacman Network
+E: G is a value the ghost can choose so it should be a rectangle. From the ghost's perspective, P, X and Y are all random variables so should be ovals. U should be a diamond. All of the variables are involved in the calculation of U, so there should be an arrow from each. Y's distribution is influenced by X so there should be an arrow from X to Y. This leaves a single correct solution.
+
 ### Racetrack
 #### Part A
 - Placing no bet at all will give a profit of $0.
