@@ -61,10 +61,10 @@ This table shows the distribution of Democratic and Republican U.S. Senators by 
 |Total	        |   80	      |   20	     |  100   |
 
 Use the table to calculate the following probabilities:
-- P(M|D): 
-- P(D|M): 
-- P(F|R): 
-- P(R|F):
+- P(M|D):
+- P(D|M) 
+- P(F|R)
+- P(R|F)
 
 [View Solutions for Medium Probability](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/Probability/Solutions/Medium_Solutions.md)
 
