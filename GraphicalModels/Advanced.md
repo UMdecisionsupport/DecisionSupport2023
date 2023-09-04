@@ -67,6 +67,13 @@ Prior sampling
 Rejection sampling		
 Likelihood weighting		
 
+| P(sample|method)   | Sampling 1 | Sampling 2 |
+| :---               |:----:      |       ---: |
+| Prior Sampling     |            |            |
+| Rejection Sampling |            |            |
+|Likelihood weighting|            |            |
+
+
 
 [View Solutions for Advanced Graphical Models](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/GraphicalModels/Solutions/Advanced_Solutions.md)
 
