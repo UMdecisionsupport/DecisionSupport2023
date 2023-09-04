@@ -2,26 +2,21 @@
 
 
 ### Conditional Independence 
-<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/jdm1.png" width="150" height="150">
 
-Given the Bayesian Network above, is $D$ conditionally independent of these nodes?
-- $A$
-- $B$
-- $C$
-- $E$
+Is $D$ conditionally independent of these nodes?
+- $A$: Yes
+- $B$: No
+- $C$: No
+- $E$: No
 
-Given the same Bayesian Network, is $A$ conditionally independent of these nodes?
-- $B$
-- $C$
-- $D$
-- $E$
+Is $A$ conditionally independent of these nodes?
+- $B$: No
+- $C$: No
+- $D$: Yes
+- $E$: Yes
 
 ### Diagnostic Farmer
-<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/farmer.png" width="750" height="350">
-
-Chris is a farmer. He has a hen in his barn, and it will lay at most one egg per day. Chris collects data and discovers conditions that influence his hen to lay eggs on a certain day, as described in the image.
-
-Instead of the Bayesian Network shown, Chris would like a diagnostic network. Which node should he start from?
+The end result of interest is whether or not an egg is laid. Starting with this variable when adding nodes would provide a diagnostic network.
 
 ### Markov Blanket I
 
