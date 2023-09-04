@@ -1,6 +1,9 @@
 ## Advanced Decision Theory Exercises
 
 ### Pure Romance
+
+<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/romance.png" width="250" height="250">
+
 Andy’s got a problem: he has a crush on Brianna and doesn’t know if he should ask her out. One day, Andy watches lecture and realizes something — he can model his current worry as a decision net! He drew up the following network with utility function $U(A,B)$:
 
 - $A \in {yes, no}$: Whether Andy asks Brianna out
