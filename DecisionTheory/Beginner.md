@@ -26,7 +26,7 @@ F	         |F	         |F	           |75            |
 
 ### Pacman
 
-<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/pacman.png" width="450" height="300">
+<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/pacman.png" width="450" height="250">
 
 After years of battles between the ghosts and Pacman, the ghosts challenge Pacman to a winner-take-all showdown, and the game is a coin flip. Pacman has a decision to make: whether to accept the challenge (accept) or decline (decline). If the coin comes out heads ($+h$) Pacman wins. If the coin comes out tails ($-h$), the ghosts win. No matter what decision Pacman makes, the outcome of the coin is revealed.
 
