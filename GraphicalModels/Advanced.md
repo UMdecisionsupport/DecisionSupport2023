@@ -47,31 +47,6 @@ Estimate the probability $P(+a|+d)$ if these new samples were collected using:
 - rejection sampling
 - likelihood weighting
 
-### Sampling II
-<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/sampling2.png" width="450" height="300">
-
-Consider the above Bayes Net.
-
-#### Part A
-We are going to use sampling to approximate the query $P(C|+b)$. Consider the following samples:
-
-- $(+a, +b, +c)$
-- $(+a, -b, -c)$
-- $(-a, +b, +c)$
-Fill in the following table with the probabilities of drawing each respective sample given that we are using each of the following sampling techniques. 
-
-
-P(sample|method)	Sampling 1	Sampling 2
-: --: –-: --:
-Prior sampling		
-Rejection sampling		
-Likelihood weighting		
-
-| P(sample|method)   | Sampling 1 | Sampling 2 |
-| :---               |:----:      |       ---: |
-| Prior Sampling     |            |            |
-| Rejection Sampling |            |            |
-|Likelihood weighting|            |            |
 
 
 
