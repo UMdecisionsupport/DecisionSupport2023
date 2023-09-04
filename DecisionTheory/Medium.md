@@ -18,7 +18,7 @@ F	         |F	         |F	           |75            |
 
 ### Pacman Network
 
-<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/pacman.png" width="450" height="250">
+<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/p1.png" width="250" height="350">
 
 The ghost chooses a number $G$ and Pacman randomly chooses a number $P$ at the same time. A computer generates a number $X~U(0,10)$ and then another number $Y~U(0,X)$. The utility is $f(G,P,X,Y)$ for a fixed function $f$. Select the decision network(s) that can correctly represent the problem for the ghost.
 
