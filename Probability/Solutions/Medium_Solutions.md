@@ -34,8 +34,9 @@ From the question:
 - $P(A|\neg B)=0.05 $
 
 Hence:
-$P(\neg B|A) = \frac{P(A|\neg B)P(\neg B)}{(P(A|B)P(B) + P(A|\neg B)P(\neg B))}$ 
-$P(B^c|A) = \frac{0.05\times 0.5}{(0.99\times 0.5 + 0.05\times 0.5)}=\frac{5}{104}\approx0.05$
+
+$$P(\neg B|A) = \frac{P(A|\neg B)P(\neg B)}{(P(A|B)P(B) + P(A|\neg B)P(\neg B))}$$
+$$P(B^c|A) = \frac{0.05\times 0.5}{(0.99\times 0.5 + 0.05\times 0.5)}=\frac{5}{104}\approx0.05$$
 
 ### Fruit Machine
 - There is only one permutation of the wheels that will give the big payout. There are $4^3 = 64$ possible results of the fruit machine. So the probability is $1/64 = 0.015625$.
