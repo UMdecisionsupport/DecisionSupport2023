@@ -9,10 +9,10 @@ Express the answer as a product of terms representing individual conditional pro
 
 ### Joint Distribution Match
 Match the joint distributions to the networks.
-<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/jdm1.png" width="200" height="250">
-<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/jdm2.png" width="200" height="250">
-<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/jdm3.png" width="200" height="250">
-<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/jdm4.png" width="200" height="250">
+<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/jdm1.png" width="150" height="150">
+<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/jdm2.png" width="150" height="150">
+<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/jdm3.png" width="150" height="150">
+<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/jdm4.png" width="150" height="150">
 
 
 
