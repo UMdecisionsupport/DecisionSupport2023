@@ -17,15 +17,12 @@ Each of the 3 starters could be paired with any of the 3 mains. This gives 9 dif
 The probability of the first being white is $\frac{5}{9}$. The probability of the second being white, given the first is white, is $\frac{4}{8}$. So the overall probability is the product of these two; $\frac{5}{18}\approx 0.278$.
 
 ### Independence
-If A and B are independent, and $P(B|A)=0.4$, what is $P(B)$?
+0.4
 
 
 ### Cards
-A card is drawn from a standard 52 card deck. Use $P(A|B)=\frac{P(A\wedge B)}{P(B)}$ to calculated the following:
-- $P(Queen|Face)$
-- $P(Queen|Club)$
-
-*Give the answer as a simple fraction. A face card could be a King, Queen or Jack.*
+- $P(Queen|Face)=\frac{P(Queen\wedge Face)}{P(Face)}=\frac{4/52}{12/52}=\frac{1}{3}$
+- $P(Queen|Club)=\frac{P(Queen\wedge Club)}{P(Club)}=\frac{1/52}{13/52}=\frac{1}{13}$
 
 ### Independent Cards
 - If the card is a queen, then the probability that it is a king is 0. This has changed compared to when the whole pack is considered. 
