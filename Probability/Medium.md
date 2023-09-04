@@ -54,6 +54,7 @@ Questions:
 This table shows the distribution of Democratic and Republican U.S. Senators by gender in the 114th Congress as of January 2015.
 
 |               | Male (M)    | Female (F) |	Total |
+| :---          |:--:         |:--:        |:--:    |
 |Democrats (D)  |	  30	      |   14	     |   44   |
 |Republicans (R)|	  48	      |    6	     |   54   |
 |Other (T)	    |    2	      |    0	     |    2   |
