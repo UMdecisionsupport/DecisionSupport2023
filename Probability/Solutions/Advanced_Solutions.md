@@ -5,23 +5,35 @@ In a game, it is only possible to score 10, 20 or 30 points. The probability of 
 What is the expected points scored from one round of the game?
 
 ### Tennis Match
-The probability that a tennis player wins the first set of a match is \frac{3}{5}. If she wins the first set, the probability that she wins the second set is $\frac{9}{10}$. If she loses the first set, the probability that she wins the second set is $\frac{1}{2}$.
-Given that the tennis player wins the second set, find the probability that she won the first set.
+$P(1st|2nd)=\frac{P(1st\wedge 2nd)}{P(2nd)}=\frac{3/5\cdot 9/10}{3/5\cdot 9/10+2/5\cdot 1/2}=\frac{27}{37} $
 
 ### Measles
-A doctor is called to see a sick child. The doctor has prior information that 90% of sick children in that neighborhood have the flu, while the other 10% are sick with measles. Let $F$ stand for an event of a child being sick with flu and $M$ stand for an event of a child being sick with measles.
-Assume for simplicity that $F\cup M=\Omega$, i.e., that there no other maladies in that neighborhood.
-A well-known symptom of measles is a rash (the event of having which we denote $R$). Assume that the probability of having a rash if one has measles is $P(R|M)=0.95$. However, occasionally children with flu also develop rash, and the probability of having a rash if one has flu is $P(R|F)=0.08$. Upon examining the child, the doctor finds a rash.
-What is the probability that the child has measles?
+$P(M|R)=\frac{P(R|M)P(M)}{P(R|M)P(M)+P(R|F)P(F)}=\frac{0.95\cdot0.10}{0.95\cdot0.10+0.08\cdot0.90}\approx0.57$
 
 ### Mice
-Whether certain mice are black or brown depends on a pair of genes, each of which is either $B$ or $b$. If both members of the pair are alike, the mouse is said to be homozygous, and if they are different it is said to be heterozygous. The mouse is brown only if it is homozygous $bb$.
-The offspring of a pair of mice have two such genes, one from each parent, and if the parent is heterozygous, the inherited gene is equally likely to be $B$ or $b$.
-- Suppose that a black mouse results from a mating between two heterozygotes. What are the probabilities that this mouse is homozygous and that it is heterozygous?
-  - Homozygous: 
-  - Heterozygous: 
+Both parents can be considered as $Bb$ (The order of the genes is ignored for both, and $Bb$ treated as the same as $bB$). The mouse in question is a black mouse, so it could have either $Bb$ or $BB$.
 
-- Now suppose that this mouse is mated with a brown mouse, resulting in seven offspring, all of which turn out to be black. Use Bayes’ Theorem to find the probability that the black mouse was homozygous $BB$.
+The prior probability of the mouse being black is:
+
+$P(Black)=1-P(Brown)=1-\frac{1}{2}\cdot\frac{1}{2}=0.75 $
+
+For the mouse to be homozygous, it must have B from both of the parents. The probability of this is:
+
+$P(BB|Black)=\frac{P(Black|BB)P(BB)}{P(Black)}=\frac{1\cdot0.25}{0.75}=\frac{1}{3} $
+
+For the mouse to be heterozygous, it must have B from one parent and b from the other. The probability of this is:
+
+$P(Bb|Black)=\frac{P(Black|Bb)P(Bb)}{P(Black)}=\frac{1\cdot0.5}{0.75}=\frac{2}{3} $
+
+Now this black mouse has mated with a brown mouse ($bb$). This has resulted in 7 black offspring, which must clearly all be $Bb$ and they must have received a $B$ from the black mouse. All of these following probabilities are taken in the world where the fact the parent mouse is black is known.
+
+$P(BB|7black)=\frac{P(7black|BB)P(BB)}{P(7black)}=\frac{1\cdot1/3}{P(7black)}$ 
+
+But what is the prior probability of having 7 black offspring?
+
+$P(7black)=P(BB)P(7black|BB)+P(Bb)P(7black|Bb)=\frac{1}{3}\cdot1+\frac{2}{3}\cdot\frac{1}{2^7}=\frac{65}{192} $
+
+$Hence P(BB|7black)=\frac{64}{65}\approx0.985 $
 
 ### Game Day
 It depends. With no further information, it does not but if $J$ and $S$ are independent given $W$, i.e., $P(J|W,S)=P(J|W)$, then this suffices.
