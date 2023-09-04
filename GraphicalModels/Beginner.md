@@ -1,5 +1,6 @@
 ## Beginner Graphical Models Exercises
 
+![Model](Paste_link_here)
 
 [View Solutions for Beginner Graphical Models](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/GraphicalModels/Solutions/Beginner_Solutions.md)
 
