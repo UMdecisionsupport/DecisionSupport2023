@@ -24,7 +24,7 @@ The offspring of a pair of mice have two such genes, one from each parent, and i
 - Now suppose that this mouse is mated with a brown mouse, resulting in seven offspring, all of which turn out to be black. Use Bayes’ Theorem to find the probability that the black mouse was homozygous $BB$.
 
 ### Game Day
-Josie wants to know whether her team will win the next match. She noticed that her team wins more often, when it is wearing their home jerseys (j) and when it is sunny (s). Next weekend, the wheather is supposed to be sunny and they are playing in their home jerseys. Josie wants to know $P(w|j,s)$. Because Josie also likes statistics, she already gathered the following information:
+Josie wants to know whether her team will win the next match. She noticed that her team wins more often, when it is wearing their home jerseys (j) and when it is sunny (s). Next weekend, the weather is supposed to be sunny and they are playing in their home jerseys. Josie wants to know $P(w|j,s)$. Because Josie also likes statistics, she already gathered the following information:
 - $P(J,S)$
 - $P(W)$
 - $P(J|W)$
