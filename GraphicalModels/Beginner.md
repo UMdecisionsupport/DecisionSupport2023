@@ -18,7 +18,10 @@ D
 <img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/jdm4.png" width="150" height="150">
 
 Match the joint distributions to the networks.
-- sd
+- $P(A) P(B) P(C|A,B) P(D) P(E|B,C,D)$
+- $P(A) P(B|C) P(C|A) P(D|A) P(E|C)$
+- $P(A) P(B|C) P(C|A) P(D|C,E) P(E|C)$
+- $P(A) P(B) P(C|A,B) P(D|C) P(E|C)$
 
 
 [View Solutions for Beginner Graphical Models](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/GraphicalModels/Solutions/Beginner_Solutions.md)
