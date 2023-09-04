@@ -1,1 +1,0 @@
-Just all images used.
