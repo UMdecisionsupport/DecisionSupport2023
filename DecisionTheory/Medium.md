@@ -18,7 +18,12 @@ F	         |F	         |F	           |75            |
 
 ### Pacman Network
 
-<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/p1.png" width="250" height="350">
+A <img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/p1.png" width="150" height="250">
+B <img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/p2.png" width="150" height="250">
+C <img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/p3.png" width="150" height="250">
+D <img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/p4.png" width="150" height="250">
+E <img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/p5.png" width="150" height="250">
+F <img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/p6.png" width="150" height="250">
 
 The ghost chooses a number $G$ and Pacman randomly chooses a number $P$ at the same time. A computer generates a number $X~U(0,10)$ and then another number $Y~U(0,X)$. The utility is $f(G,P,X,Y)$ for a fixed function $f$. Select the decision network(s) that can correctly represent the problem for the ghost.
 
