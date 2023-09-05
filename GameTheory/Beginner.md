@@ -7,7 +7,7 @@ Remember, an outcome is Pareto-optimal if it is impossible, by switching to anot
 
 |       | Left  | Right |
 |-------|-------|-------|
-|Up	 | 3,4	  | 1,3   |
+|Up	    | 3,4	  | 1,3   |
 |Middle | 0,2   | 8,8   |
 |Down   | 2,0	  | 9,1   |
 
