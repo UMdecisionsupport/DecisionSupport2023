@@ -5,9 +5,9 @@
 Check for Nash equilibria and Pareto-optimal outcomes in the game below.
 Remember, an outcome is Pareto-optimal if it is impossible, by switching to another outcome, to make one player better off without making the other player worse off.
 
-       | Left  |	Right |
--------|-------|--------|
-Up	   | 3,4	 | 1,3	  |
+       | Left  | Right |
+-------|-------|-------|
+Up	| 3,4	 | 1,3	  |
 Middle | 0,2   | 8,8	  |
 Down   | 2,0	 | 9,1	  |
 
