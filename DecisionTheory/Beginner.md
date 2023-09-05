@@ -40,7 +40,7 @@ After years of battles between the ghosts and Pacman, the ghosts challenge Pacma
 Compute EU(accept) and EU(decline). From this, select the optimal decision.
 
 ### Robot Mailman
-A robot must choose its route to pick up the mail. There is a short route and long route. On the short route, the robot might slip and fall. The can put on pads. Pads won’t change the probability of an accident. However, if an accident happens, pads will reduce the damage. Unfortunately, the pads add weight and slow the robot down. The robot would like to pick up the mail as quickly as possible while minimizing the damage caused by an accident.
+A robot must choose its route to pick up the mail. There is a short route and long route. On the short route, the robot might slip and fall. It can put on pads. Pads won’t change the probability of an accident. However, if an accident happens, pads will reduce the damage. Unfortunately, the pads add weight and slow the robot down. The robot would like to pick up the mail as quickly as possible while minimizing the damage caused by an accident.
 
 - When an accident does **NOT** happen, which of the following is true? 
   - (A) The robot prefers not wearing pads to wearing pads. 
