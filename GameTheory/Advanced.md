@@ -20,17 +20,19 @@ Determine the payoff matrix. Then find a mixed strategy equilibrium.
 Look at these two games. Each player, Alice (A) and Bob (B) has a preferred location (football or cinema) but the more important consideration for both is that they show up at the same location (Game 1) or that Alice can avoid Bob (Game 2).
 
 Game 1:
-|     | A   | E   |
-|-----|-----|-----|
-| Football   | 4,3 | 1,1 |
-| E   | 0,0 | 3,4 |
-B: ballet	B: football
-A: ballet	3,2	1,1
-A: football	0,0	2,3
+
+|        |Football| Cinema |
+|--------|--------|--------|
+|Football| 3,2    | 1,1    |
+| Cinema | 0,0    | 2,3    |
+
 Game 2:
-B: ballet	B: football
-A: ballet	1,2	3,1
-A: football	2,0	0,3
+
+|        |Football| Cinema |
+|--------|--------|--------|
+|Football| 1,2    | 3,1    |
+| Cinema | 2,0    | 0,3    |
+
 What is the most likely outcome in each game? When is it more likely that Alice and Bob meet – when Alice wants to meet Bob or when she wants to avoid him?
 
 
