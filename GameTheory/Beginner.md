@@ -1,9 +1,22 @@
 ## Beginner Game Theory Exercises
 
+### Snowdrift I
+I will give to Robert and Chelsea each a gift worth $40 if I receive $30 in cash. Their options are to either pay the fee or to not pay the fee knowing that if both of them decide to pay, then they will share the fee and pay $15 each.
+Complete the payoff table for the game.
+
+|       | Pay   |Not Pay|
+|-------|-------|-------|
+|Pay	  |   	  |       |
+|Not Pay| 40,10 |       |
+
+
+
+
+
 ### Nash Equilibrium & Pareto-Optimal Outcome I
 
 Check for Nash equilibria and Pareto-optimal outcomes in the game below.
-Remember, an outcome is Pareto-optimal if it is impossible, by switching to another outcome, to make one player better off without making the other player worse off. A Nash equalibrium exists, if each player has chosen a strategy and no one can increase one's own expected payoff by changing one's strategy while the other players keep theirs unchanged.
+Remember, an outcome is *Pareto-optimal* if it is impossible, by switching to another outcome, to make one player better off without making the other player worse off. A *Nash equalibrium* exists, if each player has chosen a strategy and no one can increase one's own expected payoff by changing one's strategy while the other players keep theirs unchanged.
 
 |       | Left  | Right |
 |-------|-------|-------|
