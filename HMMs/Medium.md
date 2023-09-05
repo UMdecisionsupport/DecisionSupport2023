@@ -1,5 +1,9 @@
 ## Medium HMMs Exercises
 
+### Mr X
+Mr. X is happy some days and angry on other days. We can only observe when he smiles, frowns, laughs, or yells but not his actual emotional state. Let us start on day 1 in the happy state. There can be only one state transition per day. It can be either to happy state or angry state. The HMM is shown below:
+
+Assume that $q_t$ is the state on day $t$ and $o_t$ is the observation on day $t$.
 
 [View Solutions for Medium HMMs](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/HMMs/Solutions/Medium_Solutions.md)
 
