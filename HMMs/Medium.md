@@ -8,6 +8,11 @@ Mr. X is happy some days and angry on other days. We can only observe when he sm
 
 Assume that $q_t$ is the state on day $t$ and $o_t$ is the observation on day $t$.
 
+- What is $P(q_2=Happy)$? 
+- What is $P(o_2=frown)$? 
+- What is $P(q_2=Happy|o_2=frown)$? 
+
+
 [View Solutions for Medium HMMs](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/HMMs/Solutions/Medium_Solutions.md)
 
 [Move back to Beginner HMMs Exercises](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/HMMs/Beginner.md)
