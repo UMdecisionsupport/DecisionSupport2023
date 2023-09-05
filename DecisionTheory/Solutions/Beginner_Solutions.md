@@ -18,6 +18,7 @@ There are four possible policies; a choice must be made between the two types of
 - Road tyres and no tools: EU = 0.4 · 0 + 0.6 · 100 = 60
 - Other tyres and tools: EU = 0.1 · 40 + 0.9 · 65 = 62.5
 - Other tyres and no tools: EU = 0.1 · 0 + 0.9 · 75 = 67.5
+  
 So the optimal choice is the other tyres and no tools with an EU of 67.5.
 
 ### Pacman
