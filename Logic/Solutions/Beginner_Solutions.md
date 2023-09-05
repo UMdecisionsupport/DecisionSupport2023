@@ -18,7 +18,7 @@ Both  E and 7 need to be turned over. They are the only two cards that could pro
 
 ### Short Questions I
 
-Each variable can be either true or false. Since there are 5 variables, there are $^25=32$ possible arrangements.
+Each variable can be either true or false. Since there are 5 variables, there are $2^5=32$ possible arrangements.
 
 ### Short Questions II
 
