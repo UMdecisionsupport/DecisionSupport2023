@@ -37,7 +37,10 @@ If you ski, you think you’ll win with probability 0.1. If your leg is broken a
 - if you win and your leg is broken, +50;
 - if you lose and your leg isn’t broken 0;
 - if you lose and your leg is broken -50.
-If you don’t ski, then if your leg is broken your utility is -10, and if it isn’t, it’s 0.
+
+If you don’t ski, then
+- if your leg is broken your utility is -10,
+- and if it isn’t, it’s 0.
 
 You might be able to gather some more information about the state of your leg by having more tests. You might be able to gather more information about whether you’ll win the race by talking to your coach or the TV sports commentators.
 
