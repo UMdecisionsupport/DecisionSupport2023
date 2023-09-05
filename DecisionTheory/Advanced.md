@@ -22,8 +22,8 @@ Indicate whether the following are always, sometimes or never true:
 - $VPI(R,M|B)=VPI(R|B)+VPI(M|B) $
 
 ### College Indecision
-Max is paying to enter a lottery for summer classes, and his favorite class, CS 188, is among the $n$ possible classes. CS 188 would cost $10, and all other classes in the lottery cost $1. Max is a rational agent, and his utility function is $U(\$x) = x^2$, where $x$ is the cost of the class that Pacman wins in the lottery.
-Pacman would win 1 of $n$ possible classes in the lottery. What is the utility of the lottery?
+Max is paying to enter a lottery for summer classes, and his favorite class, CS 188, is among the $n$ possible classes. CS 188 would cost $10, and all other classes in the lottery cost $1. Max is a rational agent, and his utility function is $U(\$x) = x^2$, where $x$ is the cost of the class that Max wins in the lottery.
+Max would win 1 of $n$ possible classes in the lottery. What is the utility of the lottery?
 
 [View Solutions for Advanced Decision Theory](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/DecisionTheory/Solutions/Advanced_Solutions.md)
 
