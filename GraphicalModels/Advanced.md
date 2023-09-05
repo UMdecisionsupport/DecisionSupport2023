@@ -29,7 +29,7 @@ Chris uses Gibbs sampling to sample tuples of $(O, W, S, H, E)$.
 <img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/sampling.png" width="750" height="200">
 
 Consider the above Bayes Net, where we have observed that $D = +d$.
-### Part A
+#### Part A
 Below is a list of samples that were collected using prior sampling. What samples would be rejected by rejection sampling?
 - $+a, -b, +c, -d $
 - $+a, -b, +c, +d $
@@ -43,6 +43,7 @@ You now receive a set of samples shown below:
 - $+a, +b, +c, +d $
 - $+a, -b, -c, +d $
 - $-a, -b, -c, +d$
+
 Estimate the probability $P(+a|+d)$ if these new samples were collected using:
 - rejection sampling
 - likelihood weighting
