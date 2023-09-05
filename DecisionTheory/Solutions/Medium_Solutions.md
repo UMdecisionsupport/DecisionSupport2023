@@ -25,7 +25,7 @@ The best options is now to accept the insurance and bet on Belle.
 Yes, with an EU of 0 vs -2.
 
 #### Part B
-f you knew your leg was broken, then $E(Ski)=0.1\cdot50+0.9\cdot -50=-40$ and $E(\neg Ski)=-10$, so you would choose not to ski and have an expected utility of -10. If you knew your leg was not broken, then $E(Ski)=0.1\cdot100+0.9\cdot0=10$  and $E(\neg Ski)=0$, so you would choose to ski and have an expected utility of 10. Using the probability of each of these scenarios, have $EU(withinfo)=0.2\cdot-10+0.8\cdot10=6$. Hence the value of the information is 6-0=6.
+If you knew your leg was broken, then $E(Ski)=0.1\cdot50+0.9\cdot -50=-40$ and $E(\neg Ski)=-10$, so you would choose not to ski and have an expected utility of -10. If you knew your leg was not broken, then $E(Ski)=0.1\cdot100+0.9\cdot0=10$  and $E(\neg Ski)=0$, so you would choose to ski and have an expected utility of 10. Using the probability of each of these scenarios, have $EU(withinfo)=0.2\cdot-10+0.8\cdot10=6$. Hence the value of the information is 6-0=6.
 
 #### Part C
 If you knew you would win, then $E(Ski)=0.2\cdot50+0.8\cdot100=90$  and $E(\neg Ski)=0.2\cdot-10+0.8\cdot0=-2$, so you would choose to ski with an expected utility of 90. If you knew you would lose, $E(Ski)=0.2\cdot-50+0.8\cdot0=-10$ and $E(\neg Ski)=0.2\cdot-10+0.8\cdot0=-2$, so you would choose not to ski with an expected utility of -2. Using the probability of each of these scenarios, have $EU(withinfo)=0.1\cdot90+0.9\cdot-2=7.2$. Hence the value of the information is 7.2-0=7.2.
