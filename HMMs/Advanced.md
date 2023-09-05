@@ -1,6 +1,6 @@
 ## Advanced HMMs Exercises
 
-### Guessing game
+### Guessing Game
 
 <img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/guessing.png" width="550" height="600">
 
@@ -9,7 +9,17 @@ For simplicity, let’s imagine Bob’s behavior is pretty limited. He can do on
 Since Alice has an idea of the weather in Bob’s area we can also translate her knowledge into probabilities:
 If yesterday was sunny, there is a 0.6 probability that today is sunny again and a 0.4 probability that it will rain. Likewise, if yesterday was raining, there is a 0.7 probability that it rains again and a 0.3 probability that it is sunny. And since the sequence has to start from somewhere she says that there is a 0.6 probability of starting with a rainy day and 0.4 for starting with a sunny day.
 
-Consider Bob went for a walk yesterday and cleaned his apartment today. What is the most likely sequence of weather for the two days? 
+Imagine that Bob went for a walk yesterday and cleaned his apartment today. What is the most likely sequence of weather for the two days? 
+
+Complete the table below to 2 decimal places whilst working towards the answer.
+
+|Yesterday|	Today	| Probability |
+|---------|-------|-------------|
+|Sunny    | Sunny	|             |
+|Sunny	  | Rainy	|             |
+|Rainy	  | Sunny	|             |
+|Rainy	  | Rainy	|             |
+
 
 [View Solutions for Advanced HMMs](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/HMMs/Solutions/Advanced_Solutions.md)
 
