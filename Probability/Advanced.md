@@ -5,7 +5,7 @@ In a game, it is only possible to score 10, 20 or 30 points. The probability of 
 What is the expected points scored from one round of the game?
 
 ### Tennis Match
-The probability that a tennis player wins the first set of a match is \frac{3}{5}. If she wins the first set, the probability that she wins the second set is $\frac{9}{10}$. If she loses the first set, the probability that she wins the second set is $\frac{1}{2}$.
+The probability that a tennis player wins the first set of a match is $\frac{3}{5}$. If she wins the first set, the probability that she wins the second set is $\frac{9}{10}$. If she loses the first set, the probability that she wins the second set is $\frac{1}{2}$.
 Given that the tennis player wins the second set, find the probability that she won the first set.
 
 ### Measles
