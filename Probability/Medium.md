@@ -38,12 +38,12 @@ Now if an email is detected as spam, then what is the probability that it is in 
 Deciding to put probability theory to good use, we encounter a slot machine with three independent wheels, each producing one of the four symbols BAR, BELL, LEMON, or CHERRY with equal probability.
 The slot machine has the following payout scheme for a bet of 1 coin (where “?” denotes that we don’t care what comes up for that wheel):
 The wheel order is relevant.
-• BAR/BAR/BAR pays 20 coins
-• BELL/BELL/BELL pays 15 coins
-• LEMON/LEMON/LEMON pays 5 coins
-• CHERRY/CHERRY/CHERRY pays 3 coins
-• CHERRY/CHERRY/? pays 2 coins
-• CHERRY/?/? pays 1 coin
+* BAR/BAR/BAR pays 20 coins
+* BELL/BELL/BELL pays 15 coins
+* LEMON/LEMON/LEMON pays 5 coins
+* CHERRY/CHERRY/CHERRY pays 3 coins
+* CHERRY/CHERRY/? pays 2 coins
+* CHERRY/?/? pays 1 coin
 
 Questions:
 - What is the probability of earning the biggest payout? 
