@@ -3,13 +3,24 @@
 ### Nash Equilibrium & Pareto-Optimal Outcome I
 
 Check for Nash equilibria and Pareto-optimal outcomes in the game below.
-Remember, an outcome is Pareto-optimal if it is impossible, by switching to another outcome, to make one player better off without making the other player worse off.
+Remember, an outcome is Pareto-optimal if it is impossible, by switching to another outcome, to make one player better off without making the other player worse off. A Nash equalibrium exists, if each player has chosen a strategy and no one can increase one's own expected payoff by changing one's strategy while the other players keep theirs unchanged.
 
 |       | Left  | Right |
 |-------|-------|-------|
 |Up	    | 3,4	  | 1,3   |
 |Middle | 0,2   | 8,8   |
 |Down   | 2,0	  | 9,1   |
+
+### Nash Equilibrium & Pareto-Optimal Outcome II
+
+Check for Nash equilibria and Pareto-optimal outcomes in the game below.
+
+|       | Left  | Right |
+|-------|-------|-------|
+|Up	    | 2,2	  | 4,1   |
+|Middle | 3,1   | 1,0   |
+|Down   | 1,3	  | 6,1   |
+
 
 
 
