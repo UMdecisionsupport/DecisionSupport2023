@@ -1,7 +1,7 @@
 ## Solutions to the Medium Exercises
 
 ### Pacman Network
-E: G is a value the ghost can choose so it should be a rectangle. From the ghost's perspective, P, X and Y are all random variables so should be ovals. U should be a diamond. All of the variables are involved in the calculation of U, so there should be an arrow from each. Y's distribution is influenced by X so there should be an arrow from X to Y. This leaves a single correct solution.
+G is a value the ghost can choose so it should be a rectangle. From the ghost's perspective, P, X and Y are all random variables so should be ovals. U should be a diamond. All of the variables are involved in the calculation of U, so there should be an arrow from each. Y's distribution is influenced by X so there should be an arrow from X to Y. This leaves a single correct solution.
 
 ### Racetrack
 #### Part A
@@ -15,8 +15,9 @@ Hence, you should bet on Belle as this has the best expected utility.
 When also considering insurance, the expected utilities from the first part remain unchanged. For the second
 part, we now need to calculate the utilities when accepting the insurance.
 
-EU(Belle) = 0.7 · 2.5 + 0.3 · 1 = $2.05
-EU(Jeb) = 0.1 · 7 + 0.9 · 1 = $1.60
+- EU(Belle) = 0.7 · 2.5 + 0.3 · 1 = $2.05
+- EU(Jeb) = 0.1 · 7 + 0.9 · 1 = $1.60
+
 The best options is now to accept the insurance and bet on Belle.
 
 ### Skiing
