@@ -1,4 +1,4 @@
-import uvicorn
+import uvicorn, datetime
 from fastapi import FastAPI
 from starlette.exceptions import HTTPException
 from starlette.responses import RedirectResponse
@@ -29,6 +29,10 @@ rating_mapping = {
 @app.get("/getrecommendation")
 async def get_recommendation(crsid: str, learningobj: str, rating: int):
 
+    # log the request with timestamp to a file
+    with open("reccomendation_log.txt", "a") as f:
+        f.write(f"{datetime.datetime.now()} {crsid} {learningobj} {rating}\n")
+
     # Exception Handling
     if not rating or rating not in rating_mapping:
         raise HTTPException(status_code=400, detail="Invalid rating or missing")
@@ -36,7 +40,7 @@ async def get_recommendation(crsid: str, learningobj: str, rating: int):
     if not learningobj or learningobj not in learningobj_mapping:
         raise HTTPException(status_code=400, detail="Invalid learning objective or missing")
 
-    if not crsid or crsid != "12345":
+    if not crsid or crsid != "1405209":
         raise HTTPException(status_code=400, detail="Invalid crsid or missing")
 
     # Redirect to the correct page
@@ -47,4 +51,4 @@ async def get_recommendation(crsid: str, learningobj: str, rating: int):
 
 if __name__ == "__main__":
     # change to 0.0.0.0 to make available outside localhost
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    uvicorn.run(app, host="localhost", port=8000)
