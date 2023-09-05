@@ -29,10 +29,6 @@ rating_mapping = {
 @app.get("/getrecommendation")
 async def get_recommendation(crsid: str, learningobj: str, rating: int):
 
-    # log the request with timestamp to a file
-    with open("reccomendation_log.txt", "a") as f:
-        f.write(f"{datetime.datetime.now()} {crsid} {learningobj} {rating}\n")
-
     # Exception Handling
     if not rating or rating not in rating_mapping:
         raise HTTPException(status_code=400, detail="Invalid rating or missing")
@@ -42,6 +38,10 @@ async def get_recommendation(crsid: str, learningobj: str, rating: int):
 
     if not crsid or crsid != "1405209":
         raise HTTPException(status_code=400, detail="Invalid crsid or missing")
+
+    # log the request with timestamp to a file
+    with open("reccomendation_log.txt", "a") as f:
+        f.write(f"{datetime.datetime.now()} {crsid} {learningobj} {rating}\n")
 
     # Redirect to the correct page
     base_url = "https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main"
