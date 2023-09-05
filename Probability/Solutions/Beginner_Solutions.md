@@ -1,6 +1,6 @@
 ## Solutions to the Beginner Exercises
 
-### Restuarant Menu
+### Restaurant Menu
 Each of the 3 starters could be paired with any of the 3 mains. This gives 9 different combinations.
 
 ### Marbles
