@@ -51,4 +51,4 @@ async def get_recommendation(crsid: str, learningobj: str, rating: int):
 
 if __name__ == "__main__":
     # change to 0.0.0.0 to make available outside localhost
-    uvicorn.run(app, host="localhost", port=8000)
+    uvicorn.run(app, host="0.0.0.0", port=8000)
