@@ -2,7 +2,7 @@
 
 ### Mr X
 
-<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/mrx.png" width="450" height="350">
+<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/mrx.jpg" width="450" height="350">
 
 Mr. X is happy some days and angry on other days. We can only observe when he smiles, frowns, laughs, or yells but not his actual emotional state. Let us start on day 1 in the happy state. There can be only one state transition per day. It can be either to happy state or angry state. The HMM is shown above.
 
