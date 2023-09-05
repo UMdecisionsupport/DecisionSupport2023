@@ -10,7 +10,16 @@ Complete the payoff table for the game.
 |Not Pay| 40,10 |       |
 
 
+### Ultimatum I
+Consider the following experiment where $100 are handed to Robert and he is given the task to split the amount of money between himself and Chelsea any
+way he wants. Then Chelsea has the option to accept the deal and take the money offered, or to refuse in which case both go empty-handed. Here, Robert has two options: offer a fair split, say 60-40, or offer a unequal split, 85-15. Chelsea also has two options, accepting any offer or accepting only the fair offer.
 
+Write down the payoff matrix for the game.
+
+|            |Accept Any|Accept Fair|
+|-------     |-------   |-------    |
+|Fair Split	 |   	      |           |
+|Unfair Split|          |           |
 
 
 ### Nash Equilibrium & Pareto-Optimal Outcome I
