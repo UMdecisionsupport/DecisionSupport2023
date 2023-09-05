@@ -2,7 +2,7 @@
 
 ### Guessing game
 
-<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/guessing.png" width="500" height="650">
+<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/guessing.png" width="500" height="600">
 
 Consider that there are two close friends, Alice and Bob, who live far away from each other but talk over the phone every day and discuss what they did. They decide to play a guessing game where Alice would try to guess the weather, based only on what Bob told her he was doing that day.
 For simplicity, let’s imagine Bob’s behavior is pretty limited. He can do one of three things during the day – walk in the park, go shopping, or clean his apartment.  Additionally, his actions fully depend on the weather on the given day. The weather will also have only two states – “rainy” or “sunny”.
