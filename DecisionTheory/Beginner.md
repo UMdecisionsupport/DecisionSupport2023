@@ -3,7 +3,7 @@
 ### Existence of Utility Theorem
 Complete the following statements by replacing $\text\[...\]$ with the correct symbols.
 
-Existence of Utility Theorem: There exists a function U such that when $A\prec B$, $U(\text\[...\])>U(\text\[...\])$. \\
+Existence of Utility Theorem: There exists a function U such that when $A\prec B$, $U(\text\[...\])>U(\text\[...\])$. <br>
 And when $A\sim B$, $U(A) \text{\[...\]}  U(B)$.
 
 ### True or False
