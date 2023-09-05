@@ -8,6 +8,7 @@ E: G is a value the ghost can choose so it should be a rectangle. From the ghost
 - Placing no bet at all will give a profit of $0.
 - EU(Belle) = 0.7 · 1 + 0.3 · −1 = $0.40
 - EU(Jeb) = 0.1 · 10 + 0.9 · −1 = $0.10
+
 Hence, you should bet on Belle as this has the best expected utility.
 
 #### Part B
