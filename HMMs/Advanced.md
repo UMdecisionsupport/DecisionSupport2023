@@ -11,7 +11,7 @@ If yesterday was sunny, there is a 0.6 probability that today is sunny again and
 
 Imagine that Bob went for a walk yesterday and cleaned his apartment today. What is the most likely sequence of weather for the two days? 
 
-Complete the table below to 2 decimal places whilst working towards the answer.
+Complete the table below.
 
 |Yesterday|	Today	| Probability |
 |---------|-------|-------------|
