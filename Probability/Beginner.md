@@ -1,7 +1,7 @@
 ## Beginner Probability Exercises
 
 ### Restaurant Menu
-A restaurant offers a set menu with a choice of three starters - soup (S), prawn cocktail (P) or bruschetta (B), and three main courses - lamb (L), hake (H) or chicken (C). An order consists of a starter and main course.
+A restaurant offers a set menu with a choice of three starters - soup (S), prawn cocktail (P), or bruschetta (B) – and three main courses - lamb (L), hake (H) or chicken (C). An order consists of a starter and main course.
 
 How many different possible events are there?
 
