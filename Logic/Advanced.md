@@ -11,7 +11,7 @@ Given the CNF \{¬A, B, ¬C, D\}, \{¬B, ¬C, D\}, \{C\}, \{¬A, ¬D\}, \{¬A, C
 - A=False, B=True, C=True, D=False
 
 ### System Statements
-Formalise these statements and determine (with truth tables or otherwise) whether they are consistent (i.e. that there is no contradiction):
+Formalise these statements and determine (with truth tables or otherwise) whether they are consistent (i.e., that there is no contradiction):
 “The system is in a multiuser state if and only if it is operating normally. If the system is operating normally, the kernel is functioning. Either the kernel is not functioning or the system is in interrupt mode. If the system is not in multiuser state, then it is in interrupt mode. The system is not in interrupt mode.”
 
 ### Validity
