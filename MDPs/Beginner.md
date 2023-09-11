@@ -12,12 +12,12 @@ Pacman is using MDPs to maximize his expected utility. In each environment:
 
 Consider a the following grid where there is a single food pellet in the bottom right corner (F ). The discount factor is 0.5. The states are simply the grid locations. There is no explicit penalty for taking more steps.
 
-\includegraphics[width=0.2\textwidth]{pacmanmdp1.png}
+<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/pacmanmdp1.png" width="150" height="100">v
 
-\begin{enumerate}
-    \item What is the optimal policy for each state?
-    \item What is the optimal value for the state of being in the upper left corner (A)?
-\end{enumerate}
+
+1. What is the optimal policy for each state?
+2. What is the optimal value for the state of being in the upper left corner (A)?
+
 
 
 [View Solutions for Beginner MDPs](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/MDPs/Solutions/Beginner_Solutions.md)
