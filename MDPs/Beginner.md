@@ -12,7 +12,7 @@ Pacman is using MDPs to maximize his expected utility. In each environment:
 
 Consider a the following grid where there is a single food pellet in the bottom right corner (F ). The discount factor is 0.5. The states are simply the grid locations. There is no explicit penalty for taking more steps.
 
-<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/pacmanmdp1.png" width="150" height="100">v
+<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/pacmanmdp1.png" width="150" height="100">
 
 
 1. What is the optimal policy for each state?
