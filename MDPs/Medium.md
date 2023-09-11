@@ -18,7 +18,7 @@ Consider a Pacman level that begins with cherries in locations D and F. Landing 
 ### Flying Pacman
 Pacman is in a 1-dimensional grid with squares labeled 0 through to n, inclusive, as shown below:
 
-<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/flyingpacman.png" width="150" height="100">
+<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/flyingpacman.png" width="350" height="100">
 
 Pacman’s goal is to reach square n as cheaply as possible. From state n, there are no more actions or rewards available.
 
@@ -32,7 +32,7 @@ Fill in the blank boxes below to define the MDP. i represents an arbitrary state
 |---|---|----|----------|-------|
 | i |Run| i+1|    ?     |   ?   | 
 | i |Fly|  i |    ?     |   ?   | 
-| i |Fly|    |    ?     |   ?   | 
+| i |Fly|  ? |    ?     |   ?   | 
 
 
 
