@@ -6,7 +6,7 @@ Pacman is using MDPs to maximize his expected utility. In each environment:
 - There is a reward of 1 point when eating the dot.
 - The game ends when the dot is eaten.
 
-Consider a Pacman level that begins with cherries in locations D and F. Landing on a grid position with cherries is worth 5 points and then the cherries at that position disappear. There is still one dot, worth 1 point. The game only ends when the dot is eaten. The states are simply the grid locations. Let there be no discount ( = 1) and a living reward of -1 (applied at each time step).
+Consider a Pacman level that begins with cherries in locations D and F. Landing on a grid position with cherries is worth 5 points and then the cherries at that position disappear. There is still one dot, worth 1 point. The game only ends when the dot is eaten. The states are simply the grid locations. Let there be no discount ($\gamma$ = 1) and a living reward of -1 (applied at each time step).
 
 \includegraphics[width=0.2\textwidth]{pacmanmdp2.png}
 
