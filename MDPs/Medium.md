@@ -8,7 +8,7 @@ Pacman is using MDPs to maximize his expected utility. In each environment:
 
 Consider a Pacman level that begins with cherries in locations D and F. Landing on a grid position with cherries is worth 5 points and then the cherries at that position disappear. There is still one dot, worth 1 point. The game only ends when the dot is eaten. The states are simply the grid locations. Let there be no discount ($\gamma$ = 1) and a living reward of -1 (applied at each time step).
 
-<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/pacmanmdp2.png" width="150" height="100">
+<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/pacmanmdp2.png" width="250" height="100">
 
 
 - How many different states need a policy to be assigned? (Count the existence or not of each cherry as inducing a separate state. Assume the Pacman could have started at any square.)
