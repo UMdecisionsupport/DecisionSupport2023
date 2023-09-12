@@ -16,37 +16,22 @@ We can specify the reward function as depicted in the following diagram, where t
 
 Our robot's goal in this world is to get outside (room 5) from it's starting position in room 2. Let the Q-values be initialised to the following:
 
-|        | A | B | C | D | E | F | G | H | I | J | K | L |
-|--------|---|---|---|---|---|---|---|---|---|---|---|---|
-|rm_0    | 0 |-10| 0 | 0 | 0 | 0 |-10| 10| 0 | 25| 50|100|
+|        | North | South | East | West |
+|--------|-------|-------|------|------|
+|$rm_0$  |  -1   |   0   |  -1  |  -1  |
+|$rm_1$  |   0   |   0   |  -1  |  -1  |
+|$rm_2$  |  -1   |  -1   |  -1  |   0  |
+|$rm_3$  |   0   |  -1   |   0  |   0  |
+|$rm_4$  |   0   |   0   |   0  |  -1  |
+|$rm_5$  |   0   |   0   |   0  |   0  |
 
-\begin{center}
-\begin{tabular}{|c|c|c|c|c|} 
- \hline
-  & North & South & East & West \\ 
- \hline
- $rm_0$ & -1 & 0 & -1 & -1 \\ 
- \hline
- $rm_1$ & 0 & 0 & -1 & -1 \\ 
- \hline
- $rm_2$ & -1 & -1 & -1 & 0 \\ 
- \hline
- $rm_3$ & 0 & -1 & 0 & 0 \\ 
- \hline
- $rm_4$ & 0 & 0 & 0 & -1 \\ 
- \hline
- $rm_5$ & 0 & 0 & 0 & 0 \\ 
- \hline
-\end{tabular}
-\end{center}
 
 Your goal in this exercise is to update according to the Q-learning algorithm. In this exercise we will make the following assumptions:
 
-\begin{itemize}
-    \item $\alpha=1$ so the update rule is thus $Q(s_t,a_t)\leftarrow r_t + \gamma\cdot\max_{a}Q(s_{t+1},a)$
-    \item the discount factor $\gamma=0.8$
-    \item Transitions are always made successfully (it's not possible for our agent to fail in its attempt to take an action)
-\end{itemize}
+- $\alpha=1$ so the update rule is thus $Q(s_t,a_t)\leftarrow r_t + \gamma\cdot\max_{a}Q(s_{t+1},a)$.
+- The discount factor is $\gamma=0.8$.
+- Transitions are always made successfully (it's not possible for our agent to fail in its attempt to take an action).
+
 
 Here is an action trajectory that you'll have your robot agent follow through the environment (assume that your agent always starts in room 2 at the beginning of a trajectory). For each action within the trajectory, update according to the Q-learning algorithm.
 
