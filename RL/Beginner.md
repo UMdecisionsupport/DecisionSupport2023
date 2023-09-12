@@ -8,11 +8,12 @@ Decide whether the following statements are true or false.
 ### Commuting
 In the directed graph below, we formulate the problem of commuting in the Bay Area as a simple MDP, where the cities (nodes) represent the states, and the arrows represent possible actions. We will use the direction of the arrows in the graph, i.e., "up", "down", "left", and "right" to refer to the actions.
 
-\includegraphics[width=0.6\textwidth]{Bay1.png}
+<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/Bay1.png" width="200" height="100">
+
 
 Let’s assume that the agent does not always succeed in every action, and we want to build an estimate of the transition function $\hat{P}$ and reward function $\hat{R}$ from data (for model-based reinforcement learning). The agent follows some policy $\pi$ to collect a dataset of (current state, action, next state, reward) tuples, as listed below.
 
-\includegraphics[width=0.6\textwidth]{Bay2.png}
+<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/Bay2.png" width="200" height="100">
 
 \begin{itemize}
     \item What is $\hat{P}(San Francisco, up, Oakland)$?
