@@ -3,7 +3,7 @@
 ### Grid Learning
 See the grid below. The state space is determined by the letters in each square. The agent can take any one of four actions; up, down, right and left.
 
-<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/grid.png" width="300" height="100">
+<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/grid.png" width="300" height="150">
 
 Start with the following Q-values for each of the states, for all of the possible actions.
 
