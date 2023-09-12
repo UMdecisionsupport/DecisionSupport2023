@@ -15,10 +15,9 @@ Let’s assume that the agent does not always succeed in every action, and we wa
 
 <img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/Bay2.png" width="300" height="150">
 
-\begin{itemize}
-    \item What is $\hat{P}(San Francisco, up, Oakland)$?
-    \item What is $\hat{R}(San Francisco, up, Oakland)$?
-\end{itemize}
+1. What is $\hat{P}(San Francisco, up, Oakland)$?
+2. What is $\hat{R}(San Francisco, up, Oakland)$?
+
 
 
 [View Solutions for Beginner RL](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/RL/Solutions/Beginner_Solutions.md)
