@@ -8,13 +8,17 @@ Let's consider a situation in which our robot is placed inside a building that h
 
 We can characterize this space as an MDP, where each state represents one room in the building (or outside, e.g., room 5) and where the agent can transition between rooms by moving either north, south, east, or west. The agent cannot stay in the same state from time step to time step, except once it is outside. 
 
-\includegraphics[width=0.6\textwidth]{rooms2.png}
+<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/rooms2.png" width="300" height="150">
 
 We can specify the reward function as depicted in the following diagram, where the agent receives a reward when it transitions outside from either room 1 or room 4. Additionally, the agent continues reaping rewards once it's already outside every time step. 
 
-\includegraphics[width=0.6\textwidth]{rooms3.png}
+<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/rooms3.png" width="300" height="150">
 
 Our robot's goal in this world is to get outside (room 5) from it's starting position in room 2. Let the Q-values be initialised to the following:
+
+|        | A | B | C | D | E | F | G | H | I | J | K | L |
+|--------|---|---|---|---|---|---|---|---|---|---|---|---|
+|rm_0    | 0 |-10| 0 | 0 | 0 | 0 |-10| 10| 0 | 25| 50|100|
 
 \begin{center}
 \begin{tabular}{|c|c|c|c|c|} 
@@ -50,13 +54,8 @@ Trajectory: west, west, south, north
 
 
 
-<img src="https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/images/grid.png" width="300" height="150">
 
-Start with the following Q-values for each of the states, for all of the possible actions.
 
-|        | A | B | C | D | E | F | G | H | I | J | K | L |
-|--------|---|---|---|---|---|---|---|---|---|---|---|---|
-|Q_0(s,a)| 0 |-10| 0 | 0 | 0 | 0 |-10| 10| 0 | 25| 50|100|
 
 [View Solutions for Advanced RL](https://github.com/UMdecisionsupport/DecisionSupport2023/blob/main/RL/Solutions/Advanced_Solutions.md)
 
