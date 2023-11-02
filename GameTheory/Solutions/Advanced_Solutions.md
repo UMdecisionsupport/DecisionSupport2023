@@ -4,13 +4,13 @@
 Assume that Ron and Hermione select analysis with probabilities $r$ and $h$ respectively. This gives probabilities of $1 − r$ and $1 − h$ of selecting economics.
 
 For Ron, the expected payoff is as follows:
-• EP (Analysis) = $4h + 1(1 − h) = 3h + 1$
-• EP (Economics) = $0h + 3(1 − h) = 3 − 3h$
+- EP (Analysis) = $4h + 1(1 − h) = 3h + 1$
+- EP (Economics) = $0h + 3(1 − h) = 3 − 3h$
 
 
 For Hermione the expected payoff is as follows:
-• EP (Analysis) = $3r + 0(1 − h) = 3r$
-• EP (Economics) = $1r + 4(1 − r) = 4 − 3r$
+- EP (Analysis) = $3r + 0(1 − h) = 3r$
+- EP (Economics) = $1r + 4(1 − r) = 4 − 3r$
 
 Solving $3h + 1 = 3 − 3h$ and $3r = 4 − 3r$ gives $h = 1/3$ and $r = 2/3$. So Hermione should select analysis with a probability of $1/3$ and economics with a probability of $2/3$. Ron should do the opposite.
 
