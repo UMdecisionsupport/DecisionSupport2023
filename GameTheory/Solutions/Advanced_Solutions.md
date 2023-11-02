@@ -12,7 +12,7 @@ For Hermione the expected payoff is as follows:
 - EP (Analysis) = $3r + 0(1 − h) = 3r$
 - EP (Economics) = $1r + 4(1 − r) = 4 − 3r$
 
-Solving $3h + 1 > 3 − 3h$ and $3r < 4 − 3r$ gives $h = 1/3$ and $r = 2/3$. So Hermione should select analysis with a probability of $1/3$ and economics with a probability of $2/3$. Ron should do the opposite.
+Solving $3h + 1 > 3 − 3h$ and $3r < 4 − 3r$ gives $h = 1/3$ and $r = 2/3$. For y = 1/3 and x = 2/3, the two of them are indifferent between the two options. Therefore, those probabilities are a Mixed Strategy Nash Equilibrium.
 
 
 ### Matching Pennies
