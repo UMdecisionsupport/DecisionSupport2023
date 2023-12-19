@@ -3,7 +3,7 @@
 
 ### Pure Romance
 - $VPI(R|M)>0$: Sometimes. It is possible that knowing R after knowing M will provide additional useful information.
-- $VPI(C)<=0$: Always. When R is unknown, C is independent of B. So knowing more information about C is worthless.
+- $VPI(C)<=0$: Always. When R is unknown, C is independent of B. So knowing more information about C is worthless and always equal to 0.
 - $VPI(F,B)>VPI(B)$: Never. They will always be equal since knowing F once you already know B adds nothing.
 - $VPI(R,M|B)=VPI(R|B)+VPI(M|B)$:	Always.
 
