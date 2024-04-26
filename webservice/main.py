@@ -1,9 +1,10 @@
 import uvicorn, datetime
-from fastapi import FastAPI
+import fastapi
 from starlette.exceptions import HTTPException
 from starlette.responses import RedirectResponse
+from pathlib import Path
 
-app = FastAPI()
+app = fastapi.FastAPI()
 
 learningobj_mapping = {
     # "281": "DecisionAgents",
@@ -24,11 +25,15 @@ rating_mapping = {
     3: "Advanced.md",
 }
 
+@app.get("/get_exercise")
+async def get_recommendation(crsid: str, learningobj: str, page: str, perceived_difficulty: str, user: str):
+# i.e. localhost:8000/get_exercise?crsid=1405209&learningobj=282&page=2&perceived_difficulty=2&user=1
+    return fastapi.responses.FileResponse(path/"index.html")
 
-# https://EURE.URL.DE/getrecommendation?crsid=12345&learningobj=54321&rating=2
+
 @app.get("/getrecommendation")
 async def get_recommendation(crsid: str, learningobj: str, rating: int):
-
+# i.e. localhost:8000/getrecommendation?crsid=1405209&learningobj=282&rating=2
     # Exception Handling
     if not rating or rating not in rating_mapping:
         raise HTTPException(status_code=400, detail="Invalid rating or missing")
@@ -51,4 +56,6 @@ async def get_recommendation(crsid: str, learningobj: str, rating: int):
 
 if __name__ == "__main__":
     # change to 0.0.0.0 to make available outside localhost
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    # change to localhost to run locally
+    path = Path(__file__).parent
+    uvicorn.run(app, host="localhost", port=8000)
