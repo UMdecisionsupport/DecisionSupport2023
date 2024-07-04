@@ -25,10 +25,10 @@ rating_mapping = {
     3: "Advanced.md",
 }
 
-@app.get("/get_exercise")
-async def get_recommendation(crsid: str, learningobj: str, page: str, perceived_difficulty: str, user: str):
+#@app.get("/get_exercise")
+#async def get_recommendation(crsid: str, learningobj: str, page: str, perceived_difficulty: str, user: str):
 # i.e. localhost:8000/get_exercise?crsid=1405209&learningobj=282&page=2&perceived_difficulty=2&user=1
-    return fastapi.responses.FileResponse(path/"index.html")
+#    return fastapi.responses.FileResponse(path/"index.html")
 
 
 @app.get("/getrecommendation")
