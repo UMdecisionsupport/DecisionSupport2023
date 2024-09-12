@@ -8,14 +8,14 @@ app = fastapi.FastAPI()
 
 learningobj_mapping = {
     # "281": "DecisionAgents",
-    "282": "Logic",
-    "283": "Probability",
-    "284": "GraphicalModels",
-    "285": "DecisionTheory",
-    "286": "GameTheory",
-    "289": "HMMs",
-    "290": "MDPs",
-    "287": "RL"
+    "374": "Logic",
+    "375": "Probability",
+    "376": "GraphicalModels",
+    "377": "DecisionTheory",
+    "378": "GameTheory",
+    "379": "HMMs",
+    "380": "MDPs",
+    "381": "RL"
 }
 
 
